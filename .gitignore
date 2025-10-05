@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+
+# Test enviornment
+test/
+.test/
+
+# VSCode settings
+.vscode/
+
+# mypy
+.mypy_cache/
+
+# logs
+*.log

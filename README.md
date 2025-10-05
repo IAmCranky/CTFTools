@@ -3,7 +3,7 @@
 
 ### 1. Install the app and dependencies
 ```sh
-enter a repo command here
+git clone 'https://github.com/IAmCranky/CTFTools.git' CTFTools
 ```
 ```sh
 python3 -m venv venv

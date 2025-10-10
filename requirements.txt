@@ -1,3 +1,4 @@
+capstone
 pwntools
 pycryptodome
 pillow

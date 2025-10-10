@@ -52,4 +52,3 @@ def qr_code(): #for inception
     result = decode(img)
     for d in result:
         print(d.data.decode())
-

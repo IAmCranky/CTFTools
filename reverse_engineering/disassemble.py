@@ -16,6 +16,7 @@ def xor_decrypt(ciphertext_bytes, key_bytes):
 plaintext = xor_decrypt(ciphertext, key)
 print(plaintext.hex())
 
+# Encode the bytearray into Hex, then decode to ASCII
 hexcode = plaintext.hex()
 code = binascii.unhexlify(hexcode)
 
